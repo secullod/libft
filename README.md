@@ -1,4 +1,5 @@
 <img src="libft.png" width="143" height="80">
+<img src="libft1.png">
 
 ## How to run
 Type make in your terminal and after compilation type ./cub3D to run the game in MACOS
@@ -11,3 +12,4 @@ Then type make in your terminal and after compilation type ./cub3D to run the ga
 This project requires you to learn a lot about computer graphics which I had not had experience with before this project. You are limited to a very basic graphics library (minilibx) which requires you to print the game pixel by pixel and frame by frame to the screen. I improved my knowledge and skills in the C programming language, data structures, and learned how to implement a raycasting engine and associated trigonometry.
 
 ## Resources
+
