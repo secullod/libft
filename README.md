@@ -5,9 +5,9 @@
 
 First clone the repository and compile the library
 
-`git clone https://github.com/secullod/libft.git`<br>
-`cd libft`<br>
-`make`
+`git clone https://github.com/secullod/libft.git
+cd libft
+make`
 
 I have included a main.c file which can be used to test any function in the library.
 
